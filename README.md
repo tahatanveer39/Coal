@@ -13,8 +13,8 @@ Computer Organization & Assembly Language (COAL) assignments written in 16-bit x
 
 | File | Description |
 |------|-------------|
-| `assignment2.asm` | Packed-observation classifier (Normal / Suspicious / Attack) using shift-and-add multiplication |
-| `assignment3.asm` | Text viewport with paragraph wrapping, scrolling, search highlighting and a status bar |
+| `A2` | Packed-observation classifier (Normal / Suspicious / Attack) using shift-and-add multiplication |
+| `A3` | Text viewport with paragraph wrapping, scrolling, search highlighting and a status bar |
 
 > Rename the files above to match whatever you named them in the repo.
 
